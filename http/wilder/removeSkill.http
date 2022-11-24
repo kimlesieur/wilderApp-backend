@@ -1,0 +1,6 @@
+PUT http://localhost:4001/wilders/skill/6
+Content-Type: application/json
+
+{
+    "skillId": 5
+}

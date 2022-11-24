@@ -1,0 +1,6 @@
+PUT http://localhost:4001/wilders/12
+Content-Type: application/json
+
+{
+    "name": "Micheal"
+}

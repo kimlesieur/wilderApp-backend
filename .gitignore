@@ -1,0 +1,7 @@
+#dev
+.env
+wildersdb.sqlite
+/node_modules
+
+#notes
+notes.txt
